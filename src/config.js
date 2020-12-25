@@ -8,10 +8,10 @@ const config = {
       URL: "YOUR_API_GATEWAY_URL",
     },
     cognito: {
-        REGION: "YOUR_COGNITO_REGION",
-        USER_POOL_ID: "YOUR_COGNITO_USER_POOL_ID",
-        APP_CLIENT_ID: "YOUR_COGNITO_APP_CLIENT_ID",
-        IDENTITY_POOL_ID: "YOUR_IDENTITY_POOL_ID",
+      REGION: "us-east-2",
+      USER_POOL_ID: "us-east-2_BnvwmVnUb",
+      APP_CLIENT_ID: "5fk8kjts1ablau772j03b1ip9b",
+      IDENTITY_POOL_ID: "us-east-2_BnvwmVnUb",
     },
   };
   

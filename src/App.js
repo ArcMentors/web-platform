@@ -6,6 +6,7 @@ import { Auth } from "aws-amplify";
 import routes from "./routes";
 import withTracker from "./withTracker";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { onError } from "./libs/errorLib";
 
 function App(){
   const [isAuthenticating, setIsAuthenticating] = useState(true);
@@ -22,7 +23,7 @@ function App(){
     }
     catch(e) {
       if (e !== 'No current user') {
-        alert(e);
+        onError(e);
       }
     }
   

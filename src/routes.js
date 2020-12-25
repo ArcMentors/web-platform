@@ -4,6 +4,7 @@ import { DefaultLayout } from "./layouts";
 // Route Views
 import Home from "./views/Home";
 import Login from "./views/Login";
+import Register from "./views/Register";
 
 const Paths = [
   {
@@ -16,6 +17,11 @@ const Paths = [
     path: "/login",
     layout: DefaultLayout,
     component: Login
+  },
+  {
+    path: "/register",
+    layout: DefaultLayout,
+    component: Register
   },
 ];
 
