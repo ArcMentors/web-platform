@@ -1,6 +1,26 @@
-# web-platform
+# ArcMentors Web Platform
 
-ArcMentors Web Platform allows to build web application faster using commonly reusable components built into system.
+ArcMentors Web Platform is platform for building web application. Web Platform has built in functionality for user management and other commonly required functionality for building great web applications.
+
+# Technology
+- ReactJS
+- AWS Cognito
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+# Features
+- UI Layout with ReactJS & Bootstrap
+- Login using Cognito
+- User Registration
+- Email Validation
+- Reset Password
+- Forgot Password
+
+# More Information
+https://arcmentors.com/web-platform
+
 
 In the project directory, you can run:
 
@@ -66,3 +86,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# References & Credits
+https://serverless-stack.com/chapters/login-with-aws-cognito.html
