@@ -89,4 +89,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 #### References & Credits
-https://serverless-stack.com/chapters/login-with-aws-cognito.html
+- https://serverless-stack.com/chapters/login-with-aws-cognito.html
