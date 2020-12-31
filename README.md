@@ -63,4 +63,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 #### References & Credits
+- https://reactnative.dev/docs/getting-started
+- https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-reference.html
 - https://serverless-stack.com/chapters/login-with-aws-cognito.html
