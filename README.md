@@ -1,6 +1,26 @@
-# web-platform
+# ArcMentors Web Platform
 
-ArcMentors Web Platform allows to build web application faster using commonly reusable components built into system.
+ArcMentors Web Platform is platform for building web application. Web Platform has built in functionality for user management and other commonly required functionality for building great web applications.
+
+## Technology
+- ReactJS
+- AWS Cognito
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+## Features
+- UI Layout with ReactJS & Bootstrap
+- Login using Cognito
+- User Registration
+- Email Validation
+- Reset Password
+- Forgot Password
+
+## More Information
+https://arcmentors.com/web-platform
+
 
 In the project directory, you can run:
 
@@ -37,32 +57,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#### References & Credits
+- https://reactnative.dev/docs/getting-started
+- https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-reference.html
+- https://serverless-stack.com/chapters/login-with-aws-cognito.html
